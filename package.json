@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/nanalan/nearley-make#readme",
   "dependencies": {
-    "nearley": "^2.6.0"
+    "nearley": "^2.20.1"
   }
 }
